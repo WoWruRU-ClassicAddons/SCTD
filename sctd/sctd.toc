@@ -1,6 +1,7 @@
-## Interface: 11200
+﻿## Interface: 11200
 ## Title: SCT - Damage|cff7fff7f -Ace2-|r
 ## Notes: Adds your damage to Scrolling Combat Text
+## Notes-ruRU: Выводит ваш урон в Scrolling Combat Text
 ## Version: 2.1
 ## Author: Grayhoof
 ## Dependencies: sct
@@ -8,6 +9,7 @@
 sctd.lua
 sctd.xml
 localization.lua
+localization.ru.lua
 localization.de.lua
 localization.fr.lua
 localization.sp.lua

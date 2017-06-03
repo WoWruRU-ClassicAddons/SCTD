@@ -1,10 +1,12 @@
-## Interface: 11200
+﻿## Interface: 11200
 ## Title: SCTD Options|cff7fff7f -Ace2-|r
 ## Notes:  Options menu for SCTD (LoadOnDemand)
+## Notes-ruRU: Меню настроек для SCTD (LoadOnDemand)
 ## Dependencies: sct, sctd, sct_options
 ## LoadOnDemand: 1
 ## LoadWith: sct_options
 localization.lua
+localization.ru.lua
 localization.de.lua
 localization.fr.lua
 localization.sp.lua
